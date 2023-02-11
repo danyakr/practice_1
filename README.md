@@ -4,7 +4,7 @@
 ## **ИСР**
 
 * [Задание 1.2 ИСР](https://github.com/danyakr/danyakr.github.io/blob/main/%D0%98%D0%A1%D0%A0%201.2.docx)
-* [Задание 1.3 ИСР]()
+* [Задание 1.3 ИСР](https://github.com/danyakr/danyakr.github.io/blob/main/%D0%98%D0%A1%D0%A0%201.3.png)
 * [Задание 1.4 ИСР]()
 * [Задание 1.5 ИСР]()
 * [Задание 1.6 ИСР]()
