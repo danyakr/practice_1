@@ -19,4 +19,8 @@
 * [Задание 2.3 ВСР](https://github.com/danyakr/danyakr.github.io/blob/main/%D0%92%D0%A1%D0%A0%202.3.docx)
 * [Задание 2.4 ВСР](https://github.com/danyakr/danyakr.github.io/blob/main/%D0%92%D0%A1%D0%A0%202.4.docx)
 * [Задание 2.5 ВСР](https://github.com/danyakr/danyakr.github.io/blob/main/%D0%92%D0%A1%D0%A0%202.5.docx)
-* [Задание 2.5 ВСП (2)](https://github.com/danyakr/danyakr.github.io/blob/main/%D0%92%D0%A1%D0%A0%202.5%20(2).docx)
+* [Задание 2.5 ВСР (2)](https://github.com/danyakr/danyakr.github.io/blob/main/%D0%92%D0%A1%D0%A0%202.5%20(2).docx)
+
+## **Отчет**
+
+* [Отчет](https://github.com/danyakr/danyakr.github.io/blob/main/%D0%9E%D1%82%D1%87%D0%B5%D1%82.docx)
